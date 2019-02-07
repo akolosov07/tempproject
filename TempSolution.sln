@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temp.Repository", "Temp.Repository\Temp.Repository.csproj", "{CA212488-0810-4B81-A63B-097F6D694E97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temp.DTO", "Temp.DTO\Temp.DTO.csproj", "{CAA90676-9240-4EBC-B454-57D026ED2274}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temp.Settings", "Temp.Settings\Temp.Settings.csproj", "{C12E9798-6D97-4615-AA55-F7DE665F93AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA212488-0810-4B81-A63B-097F6D694E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA212488-0810-4B81-A63B-097F6D694E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA212488-0810-4B81-A63B-097F6D694E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA212488-0810-4B81-A63B-097F6D694E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA90676-9240-4EBC-B454-57D026ED2274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA90676-9240-4EBC-B454-57D026ED2274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA90676-9240-4EBC-B454-57D026ED2274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA90676-9240-4EBC-B454-57D026ED2274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12E9798-6D97-4615-AA55-F7DE665F93AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12E9798-6D97-4615-AA55-F7DE665F93AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12E9798-6D97-4615-AA55-F7DE665F93AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12E9798-6D97-4615-AA55-F7DE665F93AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {353FE170-C3CB-4F2F-8021-3881FC608767}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://akolosov.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Temp.DTO\\Temp.DTO.csproj
+		SccProjectName1 = Temp.DTO
+		SccLocalPath1 = Temp.DTO
+		SccProjectUniqueName2 = Temp.Repository\\Temp.Repository.csproj
+		SccProjectName2 = Temp.Repository
+		SccLocalPath2 = Temp.Repository
+		SccProjectUniqueName3 = Temp.Settings\\Temp.Settings.csproj
+		SccProjectName3 = Temp.Settings
+		SccLocalPath3 = Temp.Settings
+	EndGlobalSection
+EndGlobal
